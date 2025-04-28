@@ -44,11 +44,11 @@ Scrapy-парсер для сбора данных о товарах с сайт
    - В классе AlkotekaDetailSpider найдите атрибут START_URLS и добавьте в список необходимые URL.
 
 ## Использование
-Запустите парсер в командной:
+Запустите парсер командной:
    ```bash
    scrapy crawl alkoteka_spider -O result.json
    ```
 
 ## Контакты
-email: kurservlad@yandex.ru 
+email: kurservlad@yandex.ru  
 telegram: @Devidbrown
